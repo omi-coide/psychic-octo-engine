@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "source_ip_cidr": [
+                "11.11.11.0/16"
+            ],
+            "ip_cidr": [
+                "11.11.11.0/16"
+            ],
+            "invert": false
+        }
+    ]
+}
